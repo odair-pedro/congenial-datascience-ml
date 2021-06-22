@@ -133,3 +133,6 @@ dmypy.json
 
 # Jupyte notebook files
 **/.ipynb_checkpoints/
+
+# Others
+**/.DS_Store
