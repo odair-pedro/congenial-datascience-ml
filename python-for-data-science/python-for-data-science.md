@@ -3,13 +3,9 @@
 # Part 1
 Tobe...
 
+<br/>
 
 # Part 2
-
-## Bio Computing
-Is the fusion between biology and computing. Working together in the Computer Science, math, estatistics and enginering to process a to interpret biological data.
-
----
 
 ## Python Libraries
 
@@ -18,7 +14,7 @@ Is the fusion between biology and computing. Working together in the Computer Sc
 - Matplotlib
 - Scikit-Learn
 
----
+<br/>
 
 ## Cheat Sheets
 - Python: https://blog.finxter.com/collection-5-cheat-sheets-every-python-coder-must-own/
@@ -26,14 +22,14 @@ Is the fusion between biology and computing. Working together in the Computer Sc
 - Pandas: https://blog.finxter.com/pandas-cheat-sheets/
 - Machine Learning: https://blog.finxter.com/machine-learning-cheat-sheets/
 
----
+<br/>
 
-## Packages
+## Scientific Python Modules
 - https://www.scipy.org/install.html
 
----
+<br/>
 
-## Get started
+## Gettting Started
 Using [SciPy](https://scipy-lectures.org/)
 
 The best modules to get started is `NumPy` and `Matplotlib`
@@ -53,22 +49,15 @@ plt.title("Sample Visualization")
 plt.show()
 ```
 
-`  `  
-`  `
-
-
 ### Notebooks
 
 - [First Steps](./notebooks/python-intro.ipynb)
 - [Random - Walk Algorithm](notebooks/random-walk.ipynb)
 - [Broadcasting](notebooks/broadcasting.ipynb)
 - [Matplotlib - Working with Graphs](notebooks/matplotlib.ipynb)
-- [Images](notebooks/images.ipynb)
+- [Images Processing](notebooks/images.ipynb)
 
-`  `  
-`  `
-
-### Practising
+### Practising Tools
 
 #### Python
 https://www.kaggle.com/learn/python
@@ -79,13 +68,11 @@ https://www.kaggle.com/learn/pandas
 #### Machine Learning
 https://www.kaggle.com/learn/intro-to-machine-learning
 
-`  `  
-`  `  
 
 ### Pipenv
 Source: https://pypi.org/project/pipenv/
 
----
+<br/>
 
 ## Notes
 
