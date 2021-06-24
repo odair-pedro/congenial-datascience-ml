@@ -1,7 +1,81 @@
 # Python for Data Science
 
 # Part 1
-Tobe...
+
+Machine learning = estatística programada
+
+Três áreas da estatística (Must know)
+- Regressão (Prever um numero)
+- Classificação (Prever uma classe)
+- Agrupamento 
+
+Conceitos básicos 1 (Must know)
+- Modelos (Ex: Regressão logístics)
+- Features (AKA Variáveis)
+- Labels (Rótulos)
+
+Conceitos básicos 2 (Must know)
+- Treinamento
+- Predição
+- Avaliação
+
+<br/>
+
+## Processos da Ciência de Dados
+
+### 1. Encontre uma pergunta interessante
+- Qual decisáo será tomada?
+- Qual benefício isso traz para o cliente?
+- Qual benefício isso traz para a empresa?
+
+### 2. Obtenha os dados
+- Esse é realmente o dado que preciso?
+- Existem problemas de privacidade?
+- Esses dados serão suficientes?
+
+### 3. Prepare os dados
+- Como separar o joio do trigo?
+- Está no formato que preciso?
+  
+### 4. Explore os dados
+- Existem padrões?
+- Existem anomalizas?
+
+### 5. Escolha ou construa o modelo
+- Os modelos existentes são suficientes?
+- **Quais são os melhores modelos para esse problema?**
+
+### 6. Avalie e comunique os resultados
+- Os resultados fazem sentido?
+- Os resultados estão realmente corretos?
+- Os resultados permitem a tomada de decisão escolhida?
+
+<br/>
+
+## Treinamento/testes
+Para separação dos dados para treinamento e testes, pode-se usar o [Princípio de Pareto](#princípio-de-pareto)
+
+<br/>
+
+## Some contents to try
+#### Fitting a line to data, aka least squares or linear regression
+https://www.youtube.com/watch?v=PaFPbb66DxQ
+
+#### Linear models
+https://www.youtube.com/watch?v=nk2CQITm_eo
+
+<br/>
+
+## Notebooks
+
+- [Logistic Regression](notebooks/logistic-regression.ipynb)
+- [Linear Regression](notebooks/linear-regression.ipynb)
+
+<br/>
+
+## Notes
+#### **Princípio de Pareto**
+Baseia-se em que, para muitas situações, aproximadamente 80% dos efeitos vêm de 20% das causas.
 
 <br/>
 
@@ -52,10 +126,11 @@ plt.show()
 ### Notebooks
 
 - [First Steps](./notebooks/python-intro.ipynb)
-- [Random - Walk Algorithm](notebooks/random-walk.ipynb)
-- [Broadcasting](notebooks/broadcasting.ipynb)
-- [Matplotlib - Working with Graphs](notebooks/matplotlib.ipynb)
+- [Random - Walk Algorithm](notebooks/random-walk.ipynb) (TODO)
+- [Broadcasting](notebooks/broadcasting.ipynb) (TODO)
+- [Matplotlib - Working with Graphs](notebooks/matplotlib.ipynb) (TODO)
 - [Images Processing](notebooks/images.ipynb)
+- [Exercises](notebooks/exercises.ipynb) (TODO)
 
 ### Practising Tools
 
@@ -86,4 +161,3 @@ Source: https://pypi.org/project/pipenv/
   - https://replit.com/
   - https://www.kaggle.com/
   - https://colab.research.google.com (Better for data analysis)
-
