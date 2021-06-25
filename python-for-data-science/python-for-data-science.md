@@ -10,7 +10,7 @@ Três áreas da estatística (Must know)
 - Agrupamento 
 
 Conceitos básicos 1 (Must know)
-- Modelos (Ex: Regressão logístics)
+- Modelos (Ex: Logístic Regression)
 - Features (AKA Variáveis)
 - Labels (Rótulos)
 
@@ -70,6 +70,7 @@ https://www.youtube.com/watch?v=nk2CQITm_eo
 
 - [Logistic Regression](notebooks/logistic-regression.ipynb)
 - [Linear Regression](notebooks/linear-regression.ipynb)
+- [Support Vector Machine (Binary Classification)](notebooks/svm.ipynb)
 
 <br/>
 
