@@ -64,19 +64,33 @@ https://www.youtube.com/watch?v=PaFPbb66DxQ
 #### Linear models
 https://www.youtube.com/watch?v=nk2CQITm_eo
 
+#### Viés e Variância (To study)
+https://www.youtube.com/watch?v=EuBBz3bI-aA&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=5
+
+#### Cross Validation
+https://www.youtube.com/watch?v=fSytzGwwBVw
+
 <br/>
 
 ## Notebooks
 
+### Supervisoned models
 - [Logistic Regression](notebooks/logistic-regression.ipynb)
 - [Linear Regression](notebooks/linear-regression.ipynb)
-- [Support Vector Machine (Binary Classification)](notebooks/svm.ipynb)
+- [Support Vector Machine (For Binary Classification)](notebooks/svm.ipynb)
+
+#### Unsupervisoned models
+- [Clustering K-means](notebooks/clustering-kmeans.ipynb)
 
 <br/>
 
 ## Notes
 #### **Princípio de Pareto**
 Baseia-se em que, para muitas situações, aproximadamente 80% dos efeitos vêm de 20% das causas.
+
+#### **Redução Dimensional**
+Técnicas (inclusive não supervisionadas) para redução do número de features.
+Source: https://www.dca.fee.unicamp.br/~lboccato/topico_9_reducao_dimensionalidade.pdf
 
 <br/>
 
