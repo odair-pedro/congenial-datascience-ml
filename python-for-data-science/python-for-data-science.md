@@ -1,6 +1,8 @@
 # Python for Data Science
 
-# Part 1
+<br/>
+
+# Part 1 - Machine Learning General Explanation
 
 Machine learning = estatística programada
 
@@ -78,11 +80,16 @@ https://www.youtube.com/watch?v=fSytzGwwBVw
 - [Logistic Regression](notebooks/logistic-regression.ipynb)
 - [Linear Regression](notebooks/linear-regression.ipynb)
 - [Support Vector Machine (For Binary Classification)](notebooks/svm.ipynb)
+- [Decision Tree](notebooks/decision-tree-csf.ipynb)
+- [Random Forest](notebooks/random-forest.ipynb)
 
 #### Unsupervisoned models
 - [Clustering K-means](notebooks/clustering-kmeans.ipynb)
 
 <br/>
+
+## Guide to Ensemble Learning
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/
 
 ## Notes
 #### **Princípio de Pareto**
@@ -92,9 +99,12 @@ Baseia-se em que, para muitas situações, aproximadamente 80% dos efeitos vêm 
 Técnicas (inclusive não supervisionadas) para redução do número de features.
 Source: https://www.dca.fee.unicamp.br/~lboccato/topico_9_reducao_dimensionalidade.pdf
 
+#### Randon Forest **Bagging** terminology
+Bootstrapping the data plus using the aggregate to make a decision is called `Bagging`
+
 <br/>
 
-# Part 2
+# Part 2 - Python Libraries for Data Science
 
 ## Python Libraries
 
