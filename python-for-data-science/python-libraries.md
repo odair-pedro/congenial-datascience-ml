@@ -46,6 +46,8 @@ plt.show()
 - [Matplotlib - Working with Graphs](notebooks/matplotlib.ipynb) (TODO)
 - [Images Processing](notebooks/images.ipynb)
 - [Exercises](notebooks/exercises.ipynb) (TODO)
+- [Manipulating Data](notebooks/manipulating-data.ipynb)
+- [Seaborn - Statiscal Exploration](notebooks/seaborn-estat-exploration.ipynb)
   
 
 ### Practising Tools
@@ -58,11 +60,6 @@ https://www.kaggle.com/learn/pandas
 
 #### Machine Learning
 https://www.kaggle.com/learn/intro-to-machine-learning
-
-
-### Pipenv
-Source: https://pypi.org/project/pipenv/
-
 
 ## Notes
 - **Exercises/Training**

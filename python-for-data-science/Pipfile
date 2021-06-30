@@ -10,6 +10,8 @@ imageio = "*"
 scikit-learn = "*"
 pandas = "*"
 pydotplus = "*"
+seaborn = "*"
+statsmodels = "*"
 
 [dev-packages]
 

@@ -74,8 +74,11 @@ https://www.youtube.com/watch?v=fSytzGwwBVw
 - [Decision Tree](notebooks/decision-tree-csf.ipynb)
 - [Random Forest](notebooks/random-forest.ipynb)
 
-#### Unsupervisoned models
+### Unsupervisoned models
 - [Clustering K-means](notebooks/clustering-kmeans.ipynb)
+
+### Others content
+- [Collinearity](notebooks/collinearity.ipynb)
 
 
 ## Guide to Ensemble Learning
