@@ -6,6 +6,20 @@
 
 ---
 
+## Get Started
+
+Download and install [Python](https://www.python.org/downloads/)
+
+Install [Pipenv](https://pypi.org/project/pipenv/)
+
+And run the following command:
+
+```shell
+cd python-for-data-science && pipenv install
+```
+
+---
+
 ## Books Recomendation
 - **Think Stats**: https://greenteapress.com/wp/think-stats-2e
   - Code examples and solutions: https://github.com/AllenDowney/ThinkStats2
