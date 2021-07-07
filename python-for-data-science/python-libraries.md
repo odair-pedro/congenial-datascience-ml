@@ -48,7 +48,9 @@ plt.show()
 - [Exercises](notebooks/exercises.ipynb) (TODO)
 - [Manipulating Data](notebooks/manipulating-data.ipynb)
 - [Seaborn - Statiscal Exploration](notebooks/seaborn-estat-exploration.ipynb)
-  
+- [Scikit-learn - Machine Learning](notebooks/sklearn-machine-learning.ipynb)
+- [Scikit-image - Image Processing](notebooks/skimage-processing.ipynb)] (TODO)
+- [Mayavi - 3D Plotting](notebooks/mayavi-3d-plot.ipynb) (TODO)
 
 ### Practising Tools
 

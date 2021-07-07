@@ -60,10 +60,41 @@ https://www.youtube.com/watch?v=PaFPbb66DxQ
 https://www.youtube.com/watch?v=nk2CQITm_eo
 
 #### Viés e Variância (To study)
-https://www.youtube.com/watch?v=EuBBz3bI-aA&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=5
+https://www.youtube.com/watch?v=EuBBz3bI-aA
 
 #### Cross Validation
 https://www.youtube.com/watch?v=fSytzGwwBVw
+
+#### Confusion Matrix
+https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+
+#### Sensitivity and Scpecificity
+Concepts for evaluating Machine Learning methods. These make it easier to choose which method is best for your data.
+\
+StatQuest explanation: https://www.youtube.com/watch?v=vP06aMoz4v8&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+
+#### PCA (Principal Component Analysis)
+https://www.youtube.com/watch?v=_UVHneBUBW0
+\
+https://www.youtube.com/watch?v=HMOI_lkzW08
+\
+https://www.youtube.com/watch?v=FgakZw6K1QQ
+\
+https://www.youtube.com/watch?v=oRvgq966yZg
+
+#### SVM (Support Vector Machines)
+https://www.youtube.com/watch?v=efR1C6CvhmE
+\
+https://www.youtube.com/watch?v=8A7L0GsBiLQ
+\
+https://www.youtube.com/watch?v=_PwhiWxHK8o
+
+#### Covariance and Correlation (To study)
+https://www.youtube.com/watch?v=qtaqvPAeEJY
+https://www.youtube.com/watch?v=xZ_z8KWkhXE
+
+#### Gradient Boost (Decision Tree)
+https://www.youtube.com/watch?v=3CC4N4z3GJc
 
 
 ## Notebooks
@@ -76,6 +107,7 @@ https://www.youtube.com/watch?v=fSytzGwwBVw
 
 ### Unsupervisoned models
 - [Clustering K-means](notebooks/clustering-kmeans.ipynb)
+- [Isolation Forest](notebooks/isolation-forest.ipynb)
 
 ### Others content
 - [Collinearity](notebooks/collinearity.ipynb)
