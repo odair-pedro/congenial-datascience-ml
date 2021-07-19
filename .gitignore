@@ -134,5 +134,8 @@ dmypy.json
 # Jupyte notebook files
 **/.ipynb_checkpoints/
 
+# Neo4j project files
+**/relate.project.json
+
 # Others
 **/.DS_Store
