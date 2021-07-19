@@ -96,6 +96,9 @@ https://www.youtube.com/watch?v=xZ_z8KWkhXE
 #### Gradient Boost (Decision Tree)
 https://www.youtube.com/watch?v=3CC4N4z3GJc
 
+#### Decision and Classification Tree
+https://www.youtube.com/watch?v=_L39rN6gz7Y
+
 
 ## Notebooks
 ### Supervisoned models

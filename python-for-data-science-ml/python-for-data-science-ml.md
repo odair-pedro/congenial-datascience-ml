@@ -1,4 +1,4 @@
-# Python for Data Science
+# Python for Data Science and Machine Learning
 
 ### [Part 1 - Machine Learning General Explanation](python-ml-general-exp.md)
 
