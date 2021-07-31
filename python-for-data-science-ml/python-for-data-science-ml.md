@@ -4,7 +4,6 @@
 
 ### [Part 2 - Python Libraries & Usage for Data Science](python-libraries.md)
 
----
 
 ## Get Started
 
@@ -18,7 +17,6 @@ And run the following command:
 cd python-for-data-science && pipenv install
 ```
 
----
 
 ## Books Recomendation
 - **Think Stats**: https://greenteapress.com/wp/think-stats-2e
