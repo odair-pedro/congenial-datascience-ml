@@ -13,7 +13,8 @@ In Python, the greatest tool to work with data processing is [Pandas](https://pa
 
 ## Exercises
 - [Exercise 1 - Football Matchs](./notebooks/exercises/exercise-1.ipynb)
-- [Exercise 2 - NBA Metrics](./notebooks/exercises/exercise-2.ipynb)
+- [Exercise 2 - Breakfast](./notebooks/exercises/exercise-2.ipynb)
+- [Exercise 3 - NBA Metrics](./notebooks/exercises/exercise-3.ipynb)
 
 
 ## Get Started
